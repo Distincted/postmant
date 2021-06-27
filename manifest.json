@@ -1,0 +1,24 @@
+	{
+		"dir" : "ltr",
+		"lang" : "en",
+		"name" : "Postmant.com",
+		"scope" : "/",
+		"display" : "fullscreen",
+		"start_url" : "/index.html",
+		"short_name" : "Postmant.com",
+		"theme_color" : "#fff",
+		"description" : "",
+		"orientation" : "any",
+		"background_color" : "#fff",
+		"related_applications" : [],
+		"prefer_related_applications" : false,
+		"icons" : [
+			{
+				"src": "/assets/img/icons/favicon-512x512.png",
+				"sizes": "512x512",
+				"type": "image/png"
+			}
+		],
+		"screenshots" : [],
+		"generated" : "true"
+	}
