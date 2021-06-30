@@ -51,7 +51,7 @@ postmant = {
 					obj[ $('#inp_post'+val).val() ]	= $('#inp_postt'+val).val();
 				}, (function(){
 						let arr=[];
-						for(let i = inp_post; i>0; i--){
+						for(let i = $scope.postmant.inp_post; i>0; i--){
 							arr.push(i);
 						}
 						return( arr );
